@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Coolest** Dad<br>
+Engineer with *emotional* ownership<br>
+Leader with _**business** and **technology**_ insights<br>
